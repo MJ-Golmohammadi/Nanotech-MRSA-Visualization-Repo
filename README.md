@@ -32,9 +32,11 @@ A Python script that merges two scientific images into a single publication‑re
 3. Adds bold **A** and **B** labels with shadow/outline for clarity
 4. Saves the result as a high‑resolution TIFF
 
-**Two methods included:**
-
 ### Note
 “AI tools (Microsoft Copilot and DeepSeek) were used to generate the code, with all work conducted under the author’s supervision.”
+
+**Two methods included:**
+
+
 - `merge_images_professional()` – auto‑scales font and spacing
 - `merge_images_simple_fixed()` – uses fixed height and very large labels
